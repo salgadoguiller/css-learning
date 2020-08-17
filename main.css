@@ -1,11 +1,16 @@
 .product-overview {
-    background-image: url('./freedom.jpg');
+    margin-top: 20px;
+    background-image: url('./images/freedom.jpg');
     height: 528px;
     padding: 20px;
+    position: relative;
 }
 
 .product-overview h1 {
     color: #ffffff;
+    position: absolute;
+    left: 2%;
+    bottom: 2%;
 }
 
 .section-title {
